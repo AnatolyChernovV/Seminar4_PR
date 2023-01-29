@@ -1,0 +1,15 @@
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\bin\Debug\net7.0\task27_.exe
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\bin\Debug\net7.0\task27_.deps.json
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\bin\Debug\net7.0\task27_.runtimeconfig.json
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\bin\Debug\net7.0\task27_.dll
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\bin\Debug\net7.0\task27_.pdb
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.csproj.AssemblyReference.cache
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.AssemblyInfoInputs.cache
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.AssemblyInfo.cs
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.csproj.CoreCompileInputs.cache
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.dll
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\refint\task27_.dll
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.pdb
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\task27_.genruntimeconfig.cache
+C:\Users\chernova\Учеба\С#\Seminar4_PR\task27_\obj\Debug\net7.0\ref\task27_.dll
